@@ -11,7 +11,7 @@ function generateJwtToken(userId, expiresIn) {
 
     };
 
-    const secretKey = 'your-secret-key'; // Ganti dengan kunci rahasia Anda sendiri
+    const secretKey = 'dekdek'; // Ganti dengan kunci rahasia Anda sendiri
 
     const token = jwt.sign(payload, secretKey, options);
     return token;
