@@ -11,17 +11,20 @@ Body:
 ![image](/images/register-bodyy.png)
 
 Response
+
 ![image](/images/register.png)
 
 |POST| `/login` | To login an existing user account
 Body:
 
 ![image](/images/login-body.png)
+
 Response
 ![image](/images/login.png)
 
 ### 2.  Articles
 | GET | `/articles` | Get Articles 
+
 Response:
 ![image](/images/artikel.png)
 
