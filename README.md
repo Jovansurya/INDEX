@@ -31,19 +31,24 @@ Response:
 ### 3.  Predict
 | GET | `/harga/<provinsi>` | Get chilly price from 2020-2023
 
-Response
+Response:
+
 ![image](/images/harga.png)
 
 
 | GET | `/data/<provinsi>` | Get predict chilly price graph
 
-Response
+Response:
+
 ![image](/images/data.png)
 
 | GET | `/image/health` | Get predict chilly price graph
+
 Body:
+
 ![image](/images/image-save.png)
 
 Response:
+
 ![image](/images/image.png)
 
